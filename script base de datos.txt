@@ -1,0 +1,12 @@
+create database prueba_bd;
+use prueba_bd;
+create table usuarios (
+	id INT(11) auto_increment primary key,
+    nombre varchar(50),
+    tipoIden varchar(5),
+    numeroIden varchar(11),
+    correo varchar(50),
+    fecha varchar(30),
+    direccion varchar(50),
+    edad int(11)
+);

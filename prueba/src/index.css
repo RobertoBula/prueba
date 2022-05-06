@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&family=Roboto:ital,wght@1,900&display=swap");
+
+* {
+  margin: 10px;
+  padding: 1px;
+  font-family: "Merriweather", serif;
+}
+
+h3 {
+  font-size: 36px;
+  font-style: italic;
+}
+
+.exito {
+  font-style: italic;
+  color: rgb(34, 210, 34);
+}
+.formulario {
+  border: 1px;
+  background-color: #ceceeb;
+  border-radius: 22px;
+  padding: 10px;
+  width: 350px;
+}
+button {
+  border-radius: 5px;
+  font-style: italic;
+  font-size: 18px;
+}
+body {
+  margin: 0;
+  border: 2px;
+  font-size: 12px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+  
